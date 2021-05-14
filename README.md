@@ -1,3 +1,6 @@
+可以自动化生成sql和相应的图表，具体可以参考网址：https://juejin.cn/post/6844903870703878158。
+
+
 <p align="center">
   <img width="320" src="https://raw.githubusercontent.com/dongsuo/vue-data-board/master/src/assets/logo.png">
 </p>
