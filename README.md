@@ -1,5 +1,5 @@
-可以自动化生成sql和相应的图表（类似的开源bi工具有Redash），具体可以参考网址：https://juejin.cn/post/6844903870703878158。
-
+可以自动化生成sql和相应的图表（类似的开源bi工具有Redash），具体可以参考网址：https://juejin.cn/post/6844903870703878158，https://www.yuque.com/slasher/v11n/yshyhi。
+后端项目地址：https://github.com/dongsuo/leancloud-server，https://github.com/dongsuo/py_vislib。
 
 <p align="center">
   <img width="320" src="https://raw.githubusercontent.com/dongsuo/vue-data-board/master/src/assets/logo.png">
