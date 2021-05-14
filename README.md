@@ -1,4 +1,4 @@
-可以自动化生成sql和相应的图表，具体可以参考网址：https://juejin.cn/post/6844903870703878158。
+可以自动化生成sql和相应的图表（类似的开源bi工具有Redash），具体可以参考网址：https://juejin.cn/post/6844903870703878158。
 
 
 <p align="center">
